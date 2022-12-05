@@ -1,8 +1,9 @@
 @media only screen and (max-width: 600px) {
-    section {
-      background-color: lightblue;
-    }
+  section {
+    background-color: lightblue;
   }
-  #navbar{
-    position: fixed;
-  }
+}
+
+#navbar {
+  position: fixed;
+}
